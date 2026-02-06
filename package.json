@@ -1,0 +1,1 @@
+{"name": "kumasi-aerotropolis", "version": "1.0.0", "description": "Project metadata and dependencies for Kumasi Aerotropolis.", "main": "index.js", "scripts": { "test": "echo \"Error: no test specified\" && exit 1" }, "author": "grannvid-cmyk", "license": "ISC"}
